@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="DOMPOC.homepage.models.termos" />
+          <option value="DOMPOC.homepage.views.projetos" />
+          <option value="DOMPOC.projetos.views.accounts" />
+          <option value="DOMPOC.accounts.admin.projetos" />
+          <option value="DOMPOC.termos.views.projetos" />
+          <option value="DOMPOC.projetos.admin.accounts" />
+          <option value="apps.visitantes.views.*" />
+          <option value="controle_visitantes.urls.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
